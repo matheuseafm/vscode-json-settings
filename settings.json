@@ -1,0 +1,17 @@
+{
+    "workbench.iconTheme": "symbols",
+    "symbols.hidesExplorerArrows": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.7,
+    "editor.renderLineHighlight": "gutter",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.fontLigatures": true,
+    "breadcrumbs.enabled": false,
+    "workbench.colorTheme": "Min Dark",
+    "workbench.editor.labelFormat": "short",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.enabled": false,
+}
